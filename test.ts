@@ -1,1 +1,3 @@
-const test = true
+const test = true;
+
+const again = true;
